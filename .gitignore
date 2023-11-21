@@ -1,0 +1,24 @@
+# Compiled binaries
+bin/
+obj/
+/binaries/
+
+# NuGet packages
+/packages/
+
+# Node.js dependencies
+/node_modules/
+
+# Output directories
+/android/
+/ios/
+/macos/
+/windows/
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Visual Studio user-specific settings
+*.suo
+*.user
